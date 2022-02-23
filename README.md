@@ -10,11 +10,11 @@
 - https://aurafly.github.io/Homework01/
 
     ```md
-    ![Example Screenshot](https://github.com/AuraFly/Homework01/blob/main/assets/SS.jpg)
+    ![Example Screenshot](/assets/SS.jpg)
     ```
 
 ## Usage
-- Looking at the site listed above, all links should function and take you directy to information that cooresponds to each specific category.
+- Looking at the site listed above, algit l links should function and take you directy to information that cooresponds to each specific category.
 
 ## Credits:
 To whomever made the site before me, even though the code was purposely broken or messy, I did not build this site. I simply refactored.
