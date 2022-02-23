@@ -10,7 +10,7 @@
 - https://aurafly.github.io/Homework01/
 
     ```md
-    ![Example Screenshot](homework01/assets/SS.jpg)
+    ![Example Screenshot](assets/SS.jpg)
     ```
 
 ## Usage
